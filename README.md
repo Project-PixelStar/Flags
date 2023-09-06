@@ -47,7 +47,6 @@ TARGET_WITHOUT_DESKTOPMODE := true
 
 If you don't use the flag it will use the default nomod pacakge without Material You Greetings
 
-Material you Greetings
 
 Example Of Style 1
 
