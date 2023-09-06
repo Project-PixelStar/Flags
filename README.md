@@ -49,7 +49,7 @@ If you don't use the flag it will use the default nomod pacakge without Material
 
 Material you Greetings
 
-- Example Of Style 1
+Example Of Style 1
 Line 1 - Material You Greetings
 Line 2 - Day & Date
 Line 3 - Weather Information
@@ -57,7 +57,7 @@ Line 3 - Weather Information
 ```bash
 PIXEL_LAUNCHER_VARIANT := glance13
 ```
-- Example Of Style 2
+Example Of Style 2
 Line 1 - Material You Greetings, Day & Date
 Line 2 - Weather Information
 
