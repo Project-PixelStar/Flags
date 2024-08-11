@@ -61,7 +61,9 @@ If your device support Now Playing feature by Google
 TARGET_SUPPORTS_NOW_PLAYING := true
 ```
 
+[IMPORTANT]
 If you don't want Google Play System to be updatable
+(RECOMMENDED) To use this on low end devices with less memory space
 
 ```bash
 TARGET_SUPPORTS_PREBUILT_UPDATABLE_APEX := false
