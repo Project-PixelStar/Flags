@@ -87,4 +87,10 @@ Build TurboAdapter with dummy GoogleBatteryService when flag is false (RECOMMEND
 TARGET_SUPPORTS_GOOGLE_BATTERY := false
 ```
 
+Add Clear Calling Support
+
+```bash
+TARGET_SUPPORTS_CLEAR_CALLING := true
+```
+
 You can check more Gapps specific flags [**HERE**](https://gitlab.com/pixelstar_gms/vendor_google_gms)
