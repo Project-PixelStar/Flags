@@ -19,6 +19,12 @@ For Face Unlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
 ```
 
+For Custom APP support
+
+```bash
+ADD_CUSTOM_APPS := true
+```
+
 For Offline Charging animation from pixel (RECOMMENDED)
 
 ```bash
