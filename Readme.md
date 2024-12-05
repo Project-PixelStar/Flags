@@ -36,13 +36,6 @@ For Live Wallpaper
 ```bash
 TARGET_INCLUDE_LIVE_WALLPAPERS := true
 ```
-
-To Add Quick Tap
-
-```bash
-TARGET_SUPPORTS_QUICK_TAP  := true
-```
-
 To Remove Aperture Camera
 
 ```bash
